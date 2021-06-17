@@ -1,0 +1,81 @@
+body{
+    background: rgb(173, 211, 135);
+}
+img {
+    margin-left: 500px;
+}
+#imginfo{
+    margin-left: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+h4{
+    margin-left: 150px;
+    color: rgb(85, 107, 63);
+    font-size: 25px;
+    text-align: center;
+}
+tr{font-size: 20px;
+    color:  rgb(56, 71, 40);
+  }
+     
+  
+  input[type=submit]{
+    border: 1px solid #7ca87c;
+    width: 50%;
+    
+    margin-left: 100px;
+    font-size: 20px;
+    border-radius: 8px;
+    background-color: rgb(151, 177, 125);
+
+  } 
+  p{
+    text-align: center;
+  }
+  a{
+    text-decoration: none;
+  }
+  .log{
+  background-color: rgb(244, 245, 247);
+    width: 100px;
+    height: 50px;
+    border: 2px solid rgb(42, 146, 42);
+    border-radius: 8px;
+    float:right;
+}
+.rendez{
+  background-color: rgb(244, 245, 247);
+  border: 8px rgb(42, 146, 42);
+    border-radius: 8px;
+   padding: 20px;
+   float: right;
+   margin-top:100px;
+   margin-right: 100px;
+}
+#info {
+    background-color: rgb(244, 245, 247);
+    border: 8px rgb(42, 146, 42);
+    border-radius: 8px;
+    padding: 20px;
+    float: left;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    
+  
+}
+.consultation{
+    background-color: rgb(244, 245, 247);
+    border: 8px rgb(42, 146, 42);
+    border-radius: 8px;
+   padding: 20px;
+   margin-top: 100px;
+   margin-left: 200px;
+   margin-right: 200px;
+   clear: both;
+  }
+  .date{
+      width: 80px;
+    margin-right: 10px;
+  }

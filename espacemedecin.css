@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(209, 222, 233);
+}
+.welc {
+    margin-left: 600px;
+    
+}
+.med{
+    margin-left: 10px;
+    float: left;
+    margin-top: 50px;}
+    h4{
+        text-align: center;
+          font-size: 23px;
+          font-family: 'Courier New', Courier, monospace;
+          color: rgb(39, 126, 240);
+    }a{
+        text-decoration: none;
+      
+    }
+    .log{
+        background-color: beige;
+        width: 100px;
+        height: 50px;
+        border: 2px solid #3126ca;
+        border-radius: 8px;
+        float:right;
+        
+    }
+    input[type=button]{
+
+        border: 2px solid #3126ca;
+            width: 130px;
+            height: 50px;
+            color: rgb(39, 126, 240);
+            
+            margin-left: 480px;
+            
+            font-size: 20px;
+            border-radius: 8px;
+            background-color: rgb(229, 243, 250);
+        }
+        input[type=submit]{
+            border: 2px solid #3126ca;
+            width: 130px;
+            color: rgb(39, 126, 240);
+            
+            margin-left: 80px;
+            font-size: 20px;
+            border-radius: 8px;
+            background-color: rgb(229, 243, 250);
+        
+          } 
+          input[type=text]{
+        
+            border: 2px solid #3126ca;
+            width: 400px;
+            color: rgb(39, 126, 240);
+            
+            margin-left: 260px;
+            font-size: 20px;
+            border-radius: 8px;
+            background-color: rgb(229, 243, 250);
+        }
+        td,th{
+            width: 300px;
+            font-size: 20px;
+        
+        }
+        th{
+            background-color: rgb(231, 214, 54);
+        }
+        table{
+            text-align: center;
+            margin-left:500px;
+        }
+        .consultation{
+            background-color:rgb(231, 214, 54);
+            width:800px;
+            margin: auto;
+            margin-top: 20px;
+        }
+        .nom{
+            width: 100x;
+            background-color: white;
+            
+            border: 2px solid #0f0f0f;
+
+        }

@@ -1,0 +1,22 @@
+body{
+    background-image: url("rechercher.jpg");
+background-repeat: no-repeat;
+}
+.tab{
+    background-color: rgb(216, 192, 176);
+    width: 800px;
+    margin:auto;
+    margin-top: 200px;
+
+}
+td{
+    width: 900px;
+    font-size: 20px;
+    text-align: center
+}
+h4{
+    text-align: center;
+      font-size: 30px;
+      font-family: 'Courier New', Courier, monospace;
+      color: rgb(68, 55, 38);
+}
